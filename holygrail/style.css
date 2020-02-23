@@ -16,7 +16,7 @@ body {
 }
 
 .main {
-    flex: 4 4 4rem;
+    flex: 8 8 8rem;
     display: flex;
 }
 
